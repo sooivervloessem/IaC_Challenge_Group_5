@@ -1,0 +1,11 @@
+variable "aws_access_key" {}
+variable "aws_secret_key" {}
+variable "aws_token" {}
+variable "aws_db_username" {}
+variable "aws_db_password" {}
+variable "aws_db_database" {}
+variable "docker_sock" {}
+variable "gitlab_username" {}
+variable "gitlab_access_token" {}
+variable "gitlab_deploy_token_username" {}
+variable "gitlab_deploy_token_token" {}
